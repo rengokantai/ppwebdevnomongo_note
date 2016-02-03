@@ -71,3 +71,18 @@ secondCall.returned(2).should.be.true;
 
 
 
+
+- cp7
+some heroku commands
+```
+git init
+heroku create
+git add, commit..
+git push heroku master
+heroku open
+heroku addons:create xxx
+heroku config
+```
+
+
+
